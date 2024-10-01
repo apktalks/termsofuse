@@ -1,2 +1,1 @@
-# termsofuse
 Terms Of Use
